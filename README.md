@@ -27,7 +27,7 @@ OpenBot & OpenNLU provides what you need to build retrieval-based korean chatbot
 
 
 ## Metadata
-
+<!--
 ![dialogmap](https://user-images.githubusercontent.com/20318775/35508658-857f28f0-0534-11e8-8386-bcc690e15563.png)
-
 ![usermap](https://user-images.githubusercontent.com/20318775/35508667-8c03dce8-0534-11e8-8ad0-ef313fe006b4.png)
+-->
