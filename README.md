@@ -19,3 +19,6 @@ OpenNLU is able to process korean natural language using pre-built or custom-tra
 
 ### execute requirements
 - Apache Tomcat 7.0
+
+## Projects using OpenBot & OpenNLU
+### ![KONKUK BOT](https://www.youtube.com/watch?v=se6ngTUQdxk)
