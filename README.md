@@ -37,7 +37,7 @@ OpenBot & OpenNLU provides what you need to build retrieval-based korean chatbot
 ### Sample Response
 ```json
 {
-    "text": "안녕하세요 무엇을 도와드릴까요?"
+	"text": "안녕하세요 무엇을 도와드릴까요?"
 }
 ```
 
