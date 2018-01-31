@@ -29,7 +29,7 @@ OpenBot & OpenNLU provides what you need to build retrieval-based korean chatbot
 ### Sample Request
 ```json
 {
-  "userKey":"{userkey}",
+	"userKey":"{userkey}",
 	"text":"안녕하세요"
 }
 ```
